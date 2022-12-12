@@ -1,2 +1,6 @@
 # A-few-old-begginer-ML-projects
-Basic models, nothing to call home about, some examples of the basics 
+A collection of some of my projects, thanks for looking!
+ 
+
+
+
